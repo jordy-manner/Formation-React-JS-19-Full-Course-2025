@@ -2,7 +2,7 @@
 
 [![React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://img.youtube.com/vi/dCLhUialKPQ/0.jpg)](https://www.youtube.com/watch?v=dCLhUialKPQ)
 
-## Ressources
+## Resources
 
 - 
 
