@@ -4,8 +4,10 @@
 
 ## Resources
 
-- 
-
+- Install vite: https://vite.dev/guide/
+- Install TailwindCss: https://tailwindcss.com/docs/installation/using-vite
+- Public APIs repository: https://github.com/public-apis/public-apis
+- The Movie DB API: https://developer.themoviedb.org/docs/getting-started
 
 ## Video info
 
